@@ -2,7 +2,7 @@
 My ITMO university java tasks
 # Тесты к курсу «Технологии Java»
 
-[Условия домашних заданий]
+[Условия домашних заданий](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
 
 
 ## Домашнее задание 10. HelloUDP
